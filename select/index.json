@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "I Thought I Saw Your Face Today",
+  "base_artist": "She & Him",
+  "createdAt": "2026-01-13T17:01:59.693654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "Song, She",
+      "has_synced": true,
+      "path": "select/01_I_Thought_I_Saw_Your_Face_Today_Song,_She.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She",
+      "has_synced": false,
+      "path": "select/02_I_Thought_I_Saw_Your_Face_Today_She.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/03_I_Thought_I_Saw_Your_Face_Today_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/04_I_Thought_I_Saw_Your_Face_Today_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/05_I_Thought_I_Saw_Your_Face_Today_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/06_I_Thought_I_Saw_Your_Face_Today_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "she and him",
+      "has_synced": true,
+      "path": "select/07_I_Thought_I_Saw_Your_Face_Today_she_and_him.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today (Paused)",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/08_I_Thought_I_Saw_Your_Face_Today_(Paused)_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today.mp3",
+      "artist": "She & Him",
+      "has_synced": true,
+      "path": "select/09_I_Thought_I_Saw_Your_Face_Today.mp3_She_&_Him.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Thought I Saw Your Face Today - She & Him LYRICS",
+      "artist": "JackieNURD",
+      "has_synced": false,
+      "path": "select/10_I_Thought_I_Saw_Your_Face_Today_-_She_&_Him_LYRICS_JackieNURD.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "has_synced": false,
+      "path": "select/pl_01_I_Thought_I_Saw_Your_Face_Today_She_&_Him.txt"
+    }
+  ]
+}
